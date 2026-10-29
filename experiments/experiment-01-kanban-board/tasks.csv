@@ -1,6 +1,6 @@
-Task,Final column
-Define website requirements,Done
-Create page wireframes,Done
-Build the home page,In-Progress
-Add a contact form,To Do
-Test the website,To Do
+Task,Column,Complete
+Collect project requirements,To Do,false
+Design UI mockups,To Do,false
+Develop login module,In-Progress,false
+Test application,In-Progress,false
+Prepare final report,Done,true

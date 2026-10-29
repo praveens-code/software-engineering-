@@ -44,7 +44,7 @@ Each report's **Tools Required → Quick access links** table contains its app, 
 
 ### Kanban board
 
-![Trello Kanban board with To Do, In-Progress and Done lists](experiments/experiment-01-kanban-board/screenshots/kanban-board.png)
+[Open the live Trello Kanban board](https://trello.com/b/5IEQGY4i/kanban-workflow-board) — five sample tasks across To Do, In-Progress, and Done.
 
 ### Bus booking desktop prototype
 
