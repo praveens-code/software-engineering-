@@ -11,3 +11,9 @@
 A unique campus repair cafe Scrum exercise with six prioritized backlog items, a one-week sprint, and genuine starting and simulated ending board screenshots. The demo sprint was started and completed early on 31 October 2026.
 
 [Open the Experiment 4 report and screenshots](experiments/experiment-04-jira-scrum/README.md)
+
+## Experiment 5: Library Requirements Using MoSCoW
+
+Ten Library Management System requirements categorized and justified by user impact and delivery feasibility for the ReLeaf Community Library pilot.
+
+[Open the Experiment 5 report and Excel workbook](experiments/experiment-05-library-moscow/README.md)
